@@ -4,5 +4,6 @@ using UnityEngine;
 
 public class dene : MonoBehaviour
 {
-    //Mehmet Baturalp Ç.AYLAK 23.01
+    //Mehmet Baturalp ï¿½.AYLAK 23.01
+    //patates
 }
